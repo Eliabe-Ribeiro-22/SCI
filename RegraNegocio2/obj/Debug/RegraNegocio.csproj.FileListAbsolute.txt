@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\AcessoDados2.dll
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\AcessoDados2.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\AcessoDados2.dll.config
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio.csproj.CopyComplete
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\RegraNegocio2.dll
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\RegraNegocio2.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio2.dll
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\RegraNegocio2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\RegraNegocio2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\AcessoDados2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\AcessoDados2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\bin\Debug\AcessoDados2.dll.config
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\RegraNegocio2\obj\Debug\RegraNegocio.csproj.CopyComplete

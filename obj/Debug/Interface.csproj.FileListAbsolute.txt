@@ -1,0 +1,48 @@
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe.config
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\Sistma_de_Ctrl.de_Igr._SCI.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr.Evang.Ass.de_Deus_SICAD.frmCadastro.resources
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr.Evang.Ass.de_Deus_SICAD.FrmPrincipal.resources
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr.Evang.Ass.de_Deus_SICAD.frmSecretaria.resources
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.Properties.Resources.resources
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SCI.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.frmConfiguracoes.resources
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.FrmTesouraria.resources
+\\USER-PC\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe
+\\USER-PC\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SCI.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\RegraNegocio2.dll
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\AcessoDados2.dll
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\RegraNegocio2.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\AcessoDados2.pdb
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\AcessoDados2.dll.config
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.FrmCadastroUsuarios.resources
+C:\Users\user\Desktop\FAMILIA  MOTA\Eliabe Ribeiro Mota\ELIABE\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.FrmLogin.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe.config
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\Sistma_de_Ctrl.de_Igr._SCI.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\RegraNegocio2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\AcessoDados2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\RegraNegocio2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\AcessoDados2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\bin\Debug\AcessoDados2.dll.config
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr.Evang.Ass.de_Deus_SICAD.frmCadastro.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.frmConfiguracoes.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr.Evang.Ass.de_Deus_SICAD.FrmPrincipal.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr.Evang.Ass.de_Deus_SICAD.frmSecretaria.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.FrmCadastroUsuarios.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.FrmLogin.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.FrmTesouraria.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.Properties.Resources.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SCI.exe
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SCI.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.frmSplash.resources
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\obj\Debug\Sistma_de_Ctrl.de_Igr._SC.frmPesquisaAvancada.resources

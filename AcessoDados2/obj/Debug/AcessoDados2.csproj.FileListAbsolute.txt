@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\bin\Debug\AcessoDados2.dll.config
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\bin\Debug\AcessoDados2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\bin\Debug\AcessoDados2.pdb
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\obj\Debug\AcessoDados2.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\obj\Debug\AcessoDados2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\obj\Debug\AcessoDados2.dll
+C:\Users\Acer\Desktop\Sistma de Ctrl. de Igr. Evang. Ass. de Deus SICAD\AcessoDados2\obj\Debug\AcessoDados2.pdb
